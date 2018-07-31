@@ -1,0 +1,213 @@
+body {
+  font-family:sans-serif;
+}
+
+#promo {
+  text-align:center;
+  background:url(../../assets/img/roll_up_banner.jpg) no-repeat;
+  background-size:cover;
+  padding:2.500em;
+}
+
+#promo p {
+  font-size:1.25em;
+  font-weight:400;
+}
+
+#promo {
+  text-align:center;
+  background:url(../../assets/img/roll_up_banner.jpg) no-repeat;
+  padding:1.25em;
+  background-size:cover;
+}
+
+@media (max-width:991px) {
+  #promo {
+    /*text-align:center;*/
+    /*background:url(../../assets/img/roll_up_banner.jpg) no-repeat;*/
+    padding:1.250em;
+    /*background-size:cover;*/
+  }
+}
+
+#promo .jumbotron {
+  border-radius:1.250em;
+  padding:2.5em;
+  background-color:rgba(255,255,255,0.75);
+  max-width:50em;
+  margin:0 auto;
+}
+
+@media (max-width:991px) {
+  #promo .jumbotron {
+    padding:1.250em;
+  }
+}
+
+.site-section {
+  /*text-align:left;*/
+  /*padding-bottom:70px;*/
+}
+
+.site-section h1 {
+  font-weight:normal;
+  margin-bottom:10px;
+  margin-top:10px;
+  text-align:center;
+}
+
+#why .item i {
+  font-size:42px;
+  padding-bottom:36px;
+}
+
+#why .item {
+  padding-top:0.625em;
+}
+
+#why .item h2 {
+  margin-top:0.813em;
+  margin-bottom:0.313em;
+  font-size:1.500em;
+}
+
+.dark-section {
+  background-color:rgb(219,219,241);
+}
+
+#logo {
+  max-height:70px;
+  margin-right:10px;
+  margin-top:-3px;
+  display:inline-block;
+}
+
+.page-content-1 h1 {
+  /*font-size:12px;*/
+}
+
+.page-content-1 p {
+  text-align:left;
+  font-size:1.25em;
+  font-style:normal;
+}
+
+#product-image {
+  max-width:100%;
+  height:18.750em;
+  text-align:center;
+  margin:auto;
+}
+
+#secondrow img {
+  max-width:100%;
+  height:18.750em;
+  text-align:center;
+  margin:auto;
+  border:3px solid orange;
+}
+
+.page-content-1 {
+  margin:0.625em auto;
+  text-align:center;
+  height:auto;
+}
+
+.row {
+  text-align:center;
+  margin:auto;
+  align-content:center;
+}
+
+.product-meta-picture {
+  background:url(../../assets/img/Treadmill.jpg) no-repeat right top;
+  background-attachment:fixed;
+}
+
+.container-fluid {
+  max-width:100%;
+  width:60em;
+  margin:auto;
+  padding:0;
+}
+
+@media (max-width: 767px) {
+  .btn-group-vertical > .btn:first-child:not(:last-child) {
+    font-size:1.25em;
+  }
+}
+
+@media (max-width: 767px) {
+  .btn-group-vertical > .btn:last-child:not(:first-child) {
+    font-size:1.15em;
+  }
+}
+
+.sec-1 h2 {
+  text-align:center;
+}
+
+#promo .btn {
+  font-size:1.5em;
+  padding:0;
+  font-weight:bold;
+  width:40%;
+  margin:auto;
+}
+
+#why ul, ol {
+  text-align:left;
+}
+
+@media (max-width: 991px) {
+  .mobileshow {
+    display:block;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:1.5em;
+    font-weight:bold;
+  }
+}
+
+@media (max-width: 991px) {
+  .mobileshow {
+    display:block;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:1.5em;
+    font-weight:bold;
+  }
+}
+
+@media (max-width: 991px) {
+  .mobileshow {
+    display:block;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:1.5em;
+    font-weight:bold;
+  }
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  width:inherit;
+}
+
+section h2 {
+  text-align:center;
+  font-size:2em;
+}
+
+section p {
+  text-align:left;
+}
+
